@@ -5,8 +5,8 @@ from books import book_list
 history = []
 
 def return_book(code):
-    if code in book_list and not book_list[code]["available"]:
-        book_list[code]["available"] = True
+    if code in book_list and not book_list[code]["Buku tersedia"]:
+        book_list[code]["Buku tersedia"] = True
         history.append(book_list[code]["title"])
         print(f"🔁 Buku '{book_list[code]['title']}' berhasil dikembalikan.")
     elif code in book_list:
