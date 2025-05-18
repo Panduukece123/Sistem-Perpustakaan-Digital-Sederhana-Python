@@ -31,3 +31,23 @@ Sistem ini mencakup fitur-fitur dasar:
 
 
 ---
+
+## 2. DESKRIPSI UMUM
+
+
+### 2.1 Perspektif Produk
+Produk ini bersifat **standalone** (mandiri) dan **non-database**, semua data hanya ada selama runtime. Ditulis seluruhnya dalam Python tanpa pustaka eksternal — ringan, portabel, dan mudah digunakan.
+
+
+### 2.2 Fungsi Umum Sistem
+- Menyajikan daftar buku kepada pengguna
+- Mengelola status buku (tersedia/dipinjam)
+- Merekam riwayat pengembalian buku
+- Navigasi dengan menu numerik sederhana
+
+
+### 2.3 Karakteristik Pengguna
+Pengguna hanya perlu kemampuan dasar menggunakan terminal. Tidak diperlukan keahlian teknis lanjut.
+
+
+---
