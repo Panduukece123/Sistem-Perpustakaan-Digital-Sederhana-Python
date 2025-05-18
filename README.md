@@ -148,6 +148,7 @@ Pengguna hanya perlu kemampuan dasar menggunakan terminal. Tidak diperlukan keah
 2. Muhammad Evan Althafy Marhian (2310511003)
 3. Rangga Novbrian Syawal Putra Ananto (2310511004)
 4. Pandu Nugraha Saputra (2310511009)
-Mahasiswa Informatika – UPN Veteran Jakarta
+
+#### Mahasiswa Informatika – UPN Veteran Jakarta
 
 
