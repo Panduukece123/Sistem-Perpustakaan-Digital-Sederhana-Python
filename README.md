@@ -80,3 +80,37 @@ Pengguna hanya perlu kemampuan dasar menggunakan terminal. Tidak diperlukan keah
 
 
 ---
+
+## 5. ANTARMUKA SISTEM
+
+
+### 5.1 Antarmuka Pengguna
+- Teks terminal (CLI)
+- Pilihan menu numerik
+- Masukan kode buku string (contoh: `"001"`)
+
+
+### 5.2 Antarmuka Perangkat Keras
+- Komputer/Laptop dengan RAM minimal 1 GB
+- Python 3.x terinstal
+- Tidak memerlukan perangkat keras tambahan
+
+
+### 5.3 Antarmuka Perangkat Lunak
+- Python Interpreter 3.x
+- Tidak menggunakan pustaka eksternal seperti `requests`, `pandas`, dll.
+
+
+---
+
+
+## 6. BATASAN SISTEM
+- Tidak menyimpan data antar sesi (data hilang setelah keluar)
+- Tidak mendukung multi-user atau sistem login
+- Tidak mendukung peran admin/pustakawan
+- Hanya CLI, tidak tersedia GUI atau Web
+- Validasi hanya pada kode buku dan status ketersediaan
+
+
+---
+
