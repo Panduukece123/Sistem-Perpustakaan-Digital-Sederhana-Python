@@ -51,3 +51,32 @@ Pengguna hanya perlu kemampuan dasar menggunakan terminal. Tidak diperlukan keah
 
 
 ---
+
+## 3. KEBUTUHAN FUNGSIONAL
+
+
+| Kode   | Nama Fitur       | Deskripsi Fungsi                                                |
+|--------|------------------|------------------------------------------------------------------|
+| RF001  | Tampilkan Buku   | Menampilkan daftar buku dan status (Tersedia/Dipinjam)          |
+| RF002  | Pinjam Buku      | Pengguna dapat meminjam buku jika tersedia                      |
+| RF003  | Kembalikan Buku  | Pengguna dapat mengembalikan buku yang dipinjam                 |
+| RF004  | Lihat Riwayat    | Menampilkan daftar buku yang dikembalikan selama sesi aktif     |
+| RF005  | Validasi Input   | Verifikasi kode buku dan status ketersediaan sebelum proses     |
+
+
+---
+
+
+## 4. KEBUTUHAN NON-FUNGSIONAL
+
+
+| Kode     | Keterangan                                                                 |
+|----------|----------------------------------------------------------------------------|
+| RNF001   | Respon sistem diberikan dalam waktu < 1 detik                              |
+| RNF002   | Berjalan pada Python 3.x tanpa pustaka eksternal                           |
+| RNF003   | Antarmuka berbasis teks (CLI)                                              |
+| RNF004   | Cross-platform (Windows, Linux, macOS)                                     |
+| RNF005   | Data bersifat sementara dan tidak disimpan secara permanen                |
+
+
+---
