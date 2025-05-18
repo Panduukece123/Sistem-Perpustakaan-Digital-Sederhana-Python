@@ -113,4 +113,41 @@ Pengguna hanya perlu kemampuan dasar menggunakan terminal. Tidak diperlukan keah
 
 
 ---
+## 7. LAMPIRAN
+
+
+### 7.1 Struktur Direktori 📁
+```bash
+.📂
+├── books.py          # Data dan fungsi untuk menampilkan buku
+├── borrow.py         # Fungsi untuk meminjam buku
+├── returnbook.py     # Fungsi untuk mengembalikan buku dan melihat riwayat
+├── main.py           # Antarmuka pengguna dan menu utama
+└── README.md         # Dokumentasi proyek ini
+```
+---
+
+### 7.2 Preview Tampilan Program 📸
+#### Menu 📚
+![Menu](preview/menu.png)
+#### Lihat Buku 📖
+![Lihatbuku](preview/Lihatbuku.png)
+#### Pinjam Buku 📗
+![pinjambuku](preview/pinjambuku.png)
+#### Kembalikan Buku 📕
+![kembalikanbuku](preview/kembalikanbuku.png)
+#### Lihat Riwayat Pengembalian 📝
+![LihatRiwayatPengembalian](preview/LihatRiwayatPengembalian.png)
+#### Keluar🚪
+![Keluar](preview/keluar.png)
+---
+
+## 👨‍💻 Kontributor
+### Kelompok 1
+1. Ariq Mahira Chandra (2310511009)
+2. Muhammad Evan Althafy Marhian (2310511003)
+3. Rangga Novbrian Syawal Putra Ananto (2310511004)
+4. Pandu Nugraha Saputra (2310511009)
+Mahasiswa Informatika – UPN Veteran Jakarta
+
 
